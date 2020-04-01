@@ -1,3 +1,4 @@
 Sr.no     Name                       Github_Handle     
 1        Ankit Mishra               ankitmishra88
 2        Ayush kesarwani            ayus786         
+3        Arihant Kapoor             arihant kapoor
