@@ -6,4 +6,4 @@ Sr.no     Name                       Github_Handle
 5        Prabhat Ranjan             coderlyg
 6        Annanya Mehta              annanyam607
 7        sanjeev kumar              sanjeev0107
-9        Ayush Anand                knight393
+8        Ayush Anand                knight393
